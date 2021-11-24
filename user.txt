@@ -1,0 +1,6 @@
+This is where you add usernames :) Add each username on one line of the file 
+ex:
+dog
+cat
+mouse
+hippo
